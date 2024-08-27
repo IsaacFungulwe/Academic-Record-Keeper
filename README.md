@@ -11,10 +11,10 @@ View a list of all students in the database
 Clone the repository:
 
 Copy
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/IsaacFungulwe/Academic-Record-Keeper/tree/main
 Navigate to the project directory:
 
-cd student-management-system
+cd Academic-Record-Keeper
 Run the main script:
 
 python main.py
